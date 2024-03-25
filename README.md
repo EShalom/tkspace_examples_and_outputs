@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/777193596.svg)](https://zenodo.org/doi/10.5281/zenodo.10870945)
+
 Accompanying data and runfiles.
 
 In both directories there are:
