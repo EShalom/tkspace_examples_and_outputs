@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/777193596.svg)](https://zenodo.org/doi/10.5281/zenodo.10870945)
 
-Accompanying data and runfiles.
+Accompanying data and runfiles that relate to simulations and results presented in the manuscript (Shalom ES, Van Loo S, Khan A, and Sourbron SP. Submitted. "Identifiability of spatiotemporal tissue perfusion models".) which utilise the functions and modules from [tkspace](https://github.com/EShalom/tkspace/).
 
 In both directories there are:
    - A directory of " Outputs"  from all simulation runs and the corresponding plotting scripts
